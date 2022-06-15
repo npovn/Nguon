@@ -1,0 +1,102 @@
+<style>
+    /* CSS for footer */
+  @font-face {
+      font-family: Iciel;
+      src: url(Assets/Fonts/Iciel.ttf);
+  }
+  
+  @font-face {
+      font-family: Oswald;
+      src: url(Assets/Fonts/Oswald.ttf);
+  }
+  
+  body{
+      line-height: 1.5;
+      font-family: 'Oswald', sans-serif;
+  }
+  .footer-container{
+      max-width: 1170px;
+      margin:auto;
+  }
+  .footer-row{
+      display: flex;
+      flex-wrap: wrap;
+  }
+  
+  .footer{
+      background-color: #292929;
+      padding: 70px 0;
+      color: white;
+  }
+  .footer a{
+      color:white;
+      text-decoration:underline;
+  }
+  .footer-col{
+     width: 45%;
+     padding: 0 15px;
+     margin-top: 50px;
+  }
+  .footer-col h4{
+      font-size: 18px;
+      color: #ffffff;
+      text-transform: capitalize;
+      margin-bottom: 35px;
+      font-weight: 500;
+      position: relative;
+      font-family: Iciel;
+      text-transform: uppercase;
+  }
+  .footer-col p{
+      text-align: justify;
+      font-size: 16px;
+      font-family: Oswald;
+  }
+  .footer-col h4::before{
+      content: '';
+      position: absolute;
+      left:0;
+      bottom: -10px;
+      background-color: #e91e63;
+      height: 2px;
+      box-sizing: border-box;
+      width: 50px;
+  }
+  .footer-copyright{
+      text-align: center;
+      font-size: 18px;
+      margin-top: 70px;
+      margin-bottom: 0px;
+  }
+  
+  /*responsive*/
+  @media(max-width: 767px){
+    .footer-col{
+      width: 50%;
+      margin-bottom: 30px;
+  }
+  }
+  @media(max-width: 574px){
+    .footer-col{
+      width: 100%;
+  }
+  }
+  </style>
+  <footer class="footer">
+      <div class="footer-container">
+             <div class="footer-row">
+                 <div class="footer-col">
+                     <h4>Chúng tôi là ai</h4>
+                     <p>NGUỒN là một tổ chức phi lợi nhuận do các bạn học sinh cấp 3 trên địa bàn Thành phố Hồ Chí Minh tổ chức nhằm phổ biến và phát triển các loại hình nghệ thuật dân gian của dân tộc Việt Nam. Nhiệm kỳ của Ban Tổ chức NGUỒN sẽ thay đổi mỗi năm và chủ đề sẽ thay đổi theo từng nhiệm kỳ. Nhiệm kỳ đầu tiên của dự án hướng đến chủ đề múa rối nước và những điều thú vị xung quanh nó.  Đến với NGUỒN nhiệm kỳ này, các bạn có thể trau dồi thêm nhiều kiến thức về lịch sử, vị thế và đóng góp của nghệ thuật múa rối nước truyền thống đến văn hóa Việt Nam. Ngoài ra, các bạn còn có thể cùng giao lưu, trò chuyện, xem cách một vở rối nước ra đời như thế nào với các nghệ nhân trong làng múa rối nước.   </p>	 	    </div>
+              <div class="footer-col">
+                     <h4>contact us</h4>
+                     Email: nguon.project@gmail.com <br>Facebook: <a href="https://www.facebook.com/nguonproject2021">NGUỒN Project </a><br>Instagram: <a href="https://www.instagram.com/nguon.project/">@nguon.project</a></div>
+              </div>
+          </div>
+        </div>
+      <div class="footer-copyright">
+          ©2022 NGUỒN. All rights reserved. <br>Proudly created by <a href="https://www.facebook.com/The-itHelp-Project-111001754810585/">The itHelp Project</a>
+      </div>
+    </footer>
+  
+    <script src="main.js"> </script>
