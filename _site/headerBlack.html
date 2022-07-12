@@ -30,7 +30,7 @@ body{
 .navbar{
     position: absolute;
     width: 100vw;
-    height: 40px;
+    height: 15vh;
     margin: auto;
     padding: 35px 0px;
     display: flex;
@@ -43,18 +43,18 @@ body{
 .black{
     background-color: rgb(41, 40, 40);
     width: 100vw;
-    height: 40px;
+    height: 120px;
 
     animation: Navbar_Transition 0.6s ease-in-out;
 }
 .black a .Logo{
-    transform: translateX(60px);
+    transform: translateX(1vh);
 }
 .navbar a .Logo{
-    transform: translateX(60px);
+    transform: translateX(1vh);
 }
 .Logo{
-    height: 13vh;
+    height: 10.5vh;
     z-index: 5;
 }
 .navbar ul.PC_navbar li{
@@ -93,7 +93,9 @@ ul.PC_navbar{
 .burger_container{
     height: 50px;
     width: 50px;
-    position: relative;
+    position: fixed;
+    top: 25px;
+    right: 0;
     display: inline-block;
     margin-right: 10px;
     display: flex;
@@ -143,12 +145,13 @@ ul.PC_navbar{
 }
 
 .burger_menu{
+    color: transparent;
     position: absolute;
     width: 100vw;
     background-color: transparent;
 
     /* Chỉnh dựa trên height của .Logo với 1/2 height của burger_menu */
-    transform: translateX(0) translateY(170px);
+    transform: translateX(-15px) translateY(220px);
     transition: all ease-in-out .5s;
 }
 
@@ -170,7 +173,7 @@ ul.PC_navbar{
 .burger_menu.open{
     display: block;
     background-color: rgb(41, 40, 40);
-    transform: translateY(150px);
+    transform: translateX(-15px) translateY(200px);
     transition: all 0.5s ease-in-out;
 }
 
@@ -188,11 +191,11 @@ ul.PC_navbar{
     0%{
         transform: translateY(40px);
         color: transparent;
-        height: 50px;
+        height: 140px;
     }
     100%{
         transform: translateY(0%);
-        height: 40px;
+        height: 120px;
     }
 }
 
@@ -219,7 +222,7 @@ ul.PC_navbar{
     }
   }
 /* Chỉnh cỡ  navbar cho phù hợp  */
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1200px) {
     .navbar ul.PC_navbar li a {
         font-size: 15px;
       }
@@ -228,90 +231,45 @@ ul.PC_navbar{
     }
   }
 
-  @media screen and (max-width: 1120px) {
+  @media screen and (max-width: 1060px) {
     .navbar ul.PC_navbar li a {
-        font-size: 17px;
+        font-size: 13px;
     }
     .navbar ul.PC_navbar li {
-        margin: 0 26px;
+        margin: 0 20px;
     }
       .navbar ul.PC_navbar li::after{
         height: 3.3px;
     }
   }
 
-  @media screen and (max-width: 1002px) {
-    .navbar ul.PC_navbar li a {
-        font-size: 16px;
-    }
-    .navbar ul.PC_navbar li {
-        margin: 0 23px;
-    }
-      .navbar ul.PC_navbar li::after{
-        height: 3.1px;
-    }
-  }
-
-  @media screen and (max-width: 948px) {
-    .navbar ul.PC_navbar li a {
-        font-size: 15px;
-    }
-    .navbar ul.PC_navbar li {
-        margin: 0 19px;
-    }
-      .navbar ul.PC_navbar li::after{
-        height: 3.1px;
-    }
-  }
-
-  @media screen and (max-width: 962px) {
-    .navbar ul.PC_navbar li a {
-        font-size: 16px;
-    }
-    .navbar ul.PC_navbar li {
-        margin: 0 17px;
-    }
-      .navbar ul.PC_navbar li::after{
-        height: 3.1px;
-    }
-  }
-
-  @media screen and (max-width: 860px) {
-    .navbar ul.PC_navbar li a {
-        font-size: 14px;
-    }
-    .navbar ul.PC_navbar li {
-        margin: 0 17px;
-    }
-      .navbar ul.PC_navbar li::after{
-        height: 3.1px;
-    }
-  }
-
 /* Khi media nhỏ cỡ mobile */
   @media screen and (max-width: 800px) {
+    .navbar ul.PC_navbar{
+        display: none;
+    }
     @keyframes Navbar_Transition {
         0%{
             transform: translateY(40px);
             color: transparent;
-            height: 50px;
+            height: 120px;
         }
         100%{
             transform: translateY(0);
-            height: 1vh;
+            height: 100px;
         }
     }
     .navbar ul.PC_navbar li a, .navbar ul.PC_navbar li::after {
         display: none;
     }
     .Logo{
-        width: 60px;
+        width: 3vw;
         height: auto;
         margin-left: 25px;
     }
     .navbar{
         background-color: rgb(41, 40, 40);
-        height: 1vh;
+        height: 100px;
         width: 100vw;
     }
     .black a .Logo{
