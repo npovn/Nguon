@@ -346,22 +346,6 @@
     position: relative;
 }
 
-.goal::after{
-    content: "";
-    align-items: center;
-    left: 0;
-    bottom: -130px;
-    height: 3px;
-    border-radius: 2px;
-    width: 35vw;
-
-    /* (100 - width)/2 */
-    transform: translateX(32.5vw);
-
-    background-color: rgba(69, 65, 65, 0.2);
-    position: absolute;
-}
-
 .goal h1{
     color: rgb(73, 66, 66);
 }
@@ -660,7 +644,6 @@
 
 /* Team */
 .team{
-    margin-top: 30vh;
     margin-bottom: 35vh;
     height: 55vh;
     display: flex;
@@ -1521,6 +1504,7 @@
 }
 
 .title3 {
+  font-size: 20px;
   color: grey;
 }
 
@@ -1566,36 +1550,39 @@
                 <div class="deco1"> <img src="Assets/Images/Aboutus2.jpg" alt="Study2"> </div>
             </div>
         </div>
+        <div class ="goal">
+            <h1>Thành viên</h1> 
+        </div>
         <div class="team reveal">
             <div class="column">
               <div class="card">
-                <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+                <img src="Assets/Images/Team/1.png" style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>Jane Doe</h2>
-                  <p class="title3">CEO & Founder</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Lê Ngọc Bảo Trân</h2>
+                  <p class="title3">President, Head of Human Resources</p>
+                  <p>Tạo dáng chụp cả trăm bức hình cũng không đẹp bằng avatar NGUỒN được.</p>
                 </div>
               </div>
             </div>
           
             <div class="column">
               <div class="card">
-                <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+                <img src="Assets/Images/Team/2.jpg"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>Mike Ross</h2>
-                  <p class="title3">Art Director</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Võ Khánh Linh</h2>
+                  <p class="title3">Co-founder, Head of Public Relations-Content</p>
+                  <p>Võ Linh tỉnh táo, thao láo về đêm.</p>
                 </div>
               </div>
             </div>
             
             <div class="column">
               <div class="card">
-                <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+                <img src="Assets/Images/Team/3.jpg"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>John Doe</h2>
-                  <p class="title3">Designer</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Nguyễn Yến Nhi</h2>
+                  <p class="title3">Co-founder, Head of Public Relations-Design</p>
+                  <p>If you can dream it, you can <del>do it</del> sleep.</p>
                 </div>
               </div>
             </div>
@@ -1603,33 +1590,33 @@
         <div class="team reveal">
             <div class="column">
               <div class="card">
-                <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+                <img src="Assets/Images/Team/4.jpg"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>Jane Doe</h2>
-                  <p class="title3">CEO & Founder</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Bùi Uyên Nhi</h2>
+                  <p class="title3">Co-founder, Head of Program</p>
+                  <p>Nhìn mình đẹp đẹp vậy thôi chứ mình đẹp thiệt.</p>
                 </div>
               </div>
             </div>
           
             <div class="column">
               <div class="card">
-                <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+                <img src="Assets/Images/Team/5.jpg"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>Mike Ross</h2>
-                  <p class="title3">Art Director</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Bùi Ngọc Nam Anh</h2>
+                  <p class="title3">Co-founder, Head of Finance</p>
+                  <p>Cứ từ từ.</p>
                 </div>
               </div>
             </div>
             
             <div class="column">
               <div class="card">
-                <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+                <img src="Assets/Images/Team/6.png"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>John Doe</h2>
-                  <p class="title3">Designer</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Phạm Diệu Huyền</h2>
+                  <p class="title3">Co-founder, Program</p>
+                  <p>Không bực bội, tôi người Hà Nội.</p>
                 </div>
               </div>
             </div>
@@ -1637,37 +1624,130 @@
         <div class="team reveal">
             <div class="column">
               <div class="card">
-                <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+                <img src="Assets/Images/Team/7.png"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>Jane Doe</h2>
-                  <p class="title3">CEO & Founder</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Hoàng Nguyễn Khánh Linh</h2>
+                  <p class="title3">Co-founder, Program</p>
+                  <p>Ngày cười, đêm dán salonpas.</p>
                 </div>
               </div>
             </div>
           
             <div class="column">
               <div class="card">
-                <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+                <img src="Assets/Images/Team/8.png"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>Mike Ross</h2>
-                  <p class="title3">Art Director</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Phạm Thanh Sơn</h2>
+                  <p class="title3">Public Relations-Content</p>
+                  <p>Nếu bạn không ngại, người khác sẽ ngại giùm mình.</p>
                 </div>
               </div>
             </div>
             
             <div class="column">
               <div class="card">
-                <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+                <img src="Assets/Images/Team/9.png"  style="height:100%; width:100%">
                 <div class="container1">
-                  <h2>John Doe</h2>
-                  <p class="title3">Designer</p>
-                  <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                  <h2>Huỳnh Công Thuận</h2>
+                  <p class="title3">Public Relations-Content</p>
+                  <p>Nghịch pháo thì phải tỉnh táo, ngơ ngáo là húp cháo.</p>
                 </div>
               </div>
             </div>
-        </div>   
+        </div>
+        <div class="team reveal">
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/10.png"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Nguyễn Ngọc Gia Hân</h2>
+                  <p class="title3">Public Relations-Content</p>
+                  <p>Đừng bỏ cuộc vì những điều tuyệt vời cần thời gian.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/11.png"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Trần Ngọc Cát Tường</h2>
+                  <p class="title3">Public Relations-Content, Human Resources</p>
+                  <p>Không có việc gì khó, chỉ sợ lòng không bền.</p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/12.jpg"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Trương Minh Vy</h2>
+                  <p class="title3">Public Relations-Design</p>
+                  <p>Take your time to polish your talent.</p>
+                </div>
+              </div>
+            </div>
+        </div> 
+        <div class="team reveal">
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/13.png"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Nguyễn Từ Thảo Nhi</h2>
+                  <p class="title3">Public Relations-Design</p>
+                  <p>Sống ảo là 9 - hết mình là 10.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/14.jpg"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Phan Võ Kiều My</h2>
+                  <p class="title3">Public Relations-Media</p>
+                  <p>Keep your face to the sunshine and you cannot see a shadow (Helen Keller).</p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/15.png"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Võ Kim Ngân</h2>
+                  <p class="title3">Human Resources</p>
+                  <p>Roses are red, violets are blue 
+                  <p> I love NGUỒN Project, do you love NGUỒN, too?</p>
+                    
+                </div>
+              </div>
+            </div>
+        </div> 
+        <div class="team reveal">
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/16.png"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Hà Vũ Gia Khánh</h2>
+                  <p class="title3">Human Resources</p>
+                  <p>Mỗi ngày một tách trà, thưởng nguyệt lại ngắm hoaaa.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="column">
+              <div class="card">
+                <img src="Assets/Images/Team/17.png"  style="height:100%; width:100%">
+                <div class="container1">
+                  <h2>Trần Ngọc Gia Hân</h2>
+                  <p class="title3">Human Resources</p>
+                  <p>Không việc gì khó, chỉ sợ không có Gia Hân.</p>
+                </div>
+              </div>
+            </div>
+        </div> 
     <div id = "footer"></div>
 
     <script src="main.js"></script>
