@@ -1,0 +1,13 @@
+---
+layout: ''
+title: Test post
+subtitle: ''
+date: 2022-07-19 17:00:00 +0000
+background: ''
+
+---
+Test posts
+
+![](/Nguon/uploads/mnist0.jpg)abcd123
+
+ok 123
