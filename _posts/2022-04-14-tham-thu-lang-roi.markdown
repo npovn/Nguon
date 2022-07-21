@@ -99,6 +99,8 @@ Water puppetry is closely linked with music. The music helps with pacing, tellin
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-0814-_-cach-th-c-ho-t-d-ng.png)
+
 ***
 
 # \[NGUỒN PROJECT: CHÚ TỄU LÀNG TA\]
@@ -132,6 +134,8 @@ Thousands of faces, one smile remains. Every night, you can sleep soundly knowin
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-0817-_-chu-t-u-lang-ta.png)
 
 ***
 
@@ -167,6 +171,8 @@ Let’s protect the water puppets with NGUỒN now!
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-1012-l-ch-s-hinh-thanh.png)
+
 ***
 
 # \[NGUỒN Project: Dạo chơi cung đình\]
@@ -198,6 +204,8 @@ Nghệ thuật múa rối nước vừa tinh tế, vừa kỳ công nhưng lại
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-1016-r-i-tien-n.png)
 
 ***
 
@@ -236,6 +244,8 @@ Dẻo thơm một hạt đắng cay muôn phần”
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-1023-r-i-nong-dan.png)
+
 ***
 
 # Hết dịch làm gì?
@@ -272,6 +282,8 @@ Being one year of age, water puppets stages at Phuong Nam Theater have received 
 
 For ticket-purchasing, you can go directly to the theater’s counter or through intermediary sites like Klook. Rest assured that the process is very simple and NGUỒN believes you will have a memorable time there!
 
+![](/Nguon/uploads/b-n-sao-c-a-1026-1-r-ng-vang.png)
+
 ***
 
 # \[NGUỒN Project: HẾT DỊCH LÀM GÌ? - phiên bản Hà Nội\]
@@ -299,7 +311,7 @@ Với mỗi suất múa rối nước kéo dài khoảng 45 phút, Nhà hát Mú
 
 With an average 45-minute performance, Thang Long Water puppet Theater is known as a cultural traditional location and a top priority for foreigners when they pay a visit to Vietnam. This theater promises to be a must-see place, especially when the pandemic is over. Don’t forget to spare some time to see it!
 
-​​
+​​![](/Nguon/uploads/b-n-sao-c-a-1030-1-thang-long.png)
 
 📌 - Nhà hát Múa rối nước Bông Sen -
 \[English caption below\]
@@ -312,6 +324,8 @@ Là nơi quy tụ nhiều nghệ nhân đến từ nhiều làng nghề truyền
 
 This is a place that assembles a myriad of craftsmans from every corner of Vietnam to show off many unique traditional yet modern performances. Interesting huh? Let’s book a show now!
 
+![](/Nguon/uploads/b-n-sao-c-a-1030-2-bong-sen.png)
+
 📌 - Nhà hát Múa rối Việt Nam -
 \[English caption below\]
 
@@ -322,6 +336,8 @@ Là trung tâm nghệ thuật múa rối lớn nhất cả nước, có bề dà
 📌 - The Vietnam National Water puppetry Theater -
 
 This is our national largest center of water puppetry, with more than 60 years in running and developing under generations of researchers, authors, directors, visual artists, art decorators and the best Vietnamese artists. The Vietnam National Water puppetry Theater is always innovative and keeping up with the latest trends, giving water puppetry a new look every time it appears.
+
+![](/Nguon/uploads/b-n-sao-c-a-1030-3-vi-t-nam.png)
 
 ***
 
@@ -364,6 +380,8 @@ Who doesn't love festivals and village activities? NGUỒN is no exception, alwa
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-1214-tich-tro.png)
 
 ***
 
@@ -457,6 +475,8 @@ The art of creating a water puppet depended mostly on the artists’ experience 
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-0108-_th-i-h-n_-vao-r-i.png)
+
 ***
 
 # \[NGUỒN Project: Phía sau tấm màn rối\]
@@ -488,6 +508,8 @@ Although they are tired, the applause and cheers of the audience are the motivat
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-0118-phia-sau-man-r-i.png)
+
 ***
 
 # \[NGUỒN Project: LINH HỒN CỦA THỜI ĐẠI\]
@@ -516,6 +538,8 @@ Modern water puppetry is simply water puppetry in the modern age,  affected by m
 Vietnam National Puppetry Theater has boldly put into testing a number of plays combining the traditional and the modern puppetry, such as the play "Hồn quê" (roughly understood as ‘The spirit of the country’) by Meritorious Artist Director Vương Duy Biên. This play has a harmonious combination of tradition and modernity, creating high efficiency in recreating the peaceful Vietnamese countryside with simple Vietnamese people who always bring positivity to life. The success of "Hồn quê" is the driving force for Vietnamese folk puppetry to adapt to the era of national and global modernization!
 
 With the next articles, NGUON will reveal more satisfying acting books. Don't forget to wait eagerly for those upcoming contents!
+
+![](/Nguon/uploads/b-n-sao-c-a-0120-linh-h-n-c-a-th-i-d-i.png)
 
 ***
 
@@ -549,6 +573,8 @@ In just 10 days, the whole crew was able to arrange to release this particular "
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-0125-trang.png)
+
 ***
 
 # \[NGUỒN Project: AI THƯƠNG CON HƠN?\]
@@ -580,6 +606,8 @@ The puppet play “Con yeu me” was released in the last days of 2020 with all 
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-0127-con-yeu.png)
 
 ***
 
@@ -617,6 +645,8 @@ Tuong and Cheo have made significant contributions to the development and succes
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-0221-r-i-n-c-va-tu-ng-cheo.png)
+
 ***
 
 # \[NGUỒN Project: GIAI ĐIỆU RỐI NƯỚC\]
@@ -653,6 +683,8 @@ With the musical developments in water puppetry mentioned above, NGUỒN is opti
 \#nguonproject
 \#caycocoi #songconguon
 
+![](/Nguon/uploads/b-n-sao-c-a-0301-am-nh-c-hi-n-d-i-trong-mua-r-i-n-c.png)
+
 ***
 
 # \[NGUỒN Project: RỰC RỠ TRANG PHỤC CÙNG RỐI\]
@@ -688,3 +720,5 @@ Over a journey of about 10 centuries, water puppetry has had changes in sound as
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-0503-mua-r-i-x-a-nay.png)
