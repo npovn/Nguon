@@ -17,8 +17,6 @@ Vậy, các bạn hãy thử đoán xem chủ đề năm nay của chúng mình 
 \#nguonproject
 \#caycocoi #songconguon
 
-![](/Nguon/uploads/old-dark-room-brick-wall-260nw-166205855.jpg)
-
 ***
 
 # \[NGUỒN PROJECT: DYNAMIC AND STILL\]
@@ -29,6 +27,8 @@ Come and make your guess about the focus of this year’s theme! 🧐
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-0807-_-hint-theme.png)
 
 ***
 
@@ -57,6 +57,8 @@ Come and make your guess about the focus of this year’s theme! 🧐
 
 \#nguonproject
 \#caycocoi #songconguon
+
+![](/Nguon/uploads/b-n-sao-c-a-0810-_-gi-i-thi-u-theme.jpg)
 
 ***
 
