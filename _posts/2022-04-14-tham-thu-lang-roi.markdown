@@ -58,7 +58,7 @@ Come and make your guess about the focus of this year’s theme! 🧐
 \#nguonproject
 \#caycocoi #songconguon
 
-![](/Nguon/uploads/b-n-sao-c-a-0807-_-hint-theme.png)
+![](/Nguon/uploads/b-n-sao-c-a-0810-_-gi-i-thi-u-theme.jpg)
 
 ***
 
