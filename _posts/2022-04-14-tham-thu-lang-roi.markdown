@@ -475,8 +475,6 @@ The art of creating a water puppet depended mostly on the artists’ experience 
 \#nguonproject
 \#caycocoi #songconguon
 
-![](/Nguon/uploads/b-n-sao-c-a-0108-_th-i-h-n_-vao-r-i.png)
-
 ***
 
 # \[NGUỒN Project: Phía sau tấm màn rối\]
